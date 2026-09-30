@@ -1,0 +1,3 @@
+swimming 
+running 
+eating
